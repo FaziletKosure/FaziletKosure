@@ -20,19 +20,3 @@
 - [This is the very beginning of my Writing Journey!](https://faziletkosure1.medium.com/this-is-the-very-beginning-of-my-writing-journey-fc0edd3bae07)
 
 - [A Short Future-Reference for Debugging, Security Issues, and API Usage (Yelp API) with React Native](https://faziletkosure1.medium.com/a-short-future-reference-for-debugging-security-issues-and-api-usage-yelp-api-with-react-native-b21e4dbcc15a)
-
-<!--
-
-**frcihan/frcihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on programming languages
-- 🌱 I’m currently learning JavaScript | React | React Native
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything
-- 📫 How to reach me: Twitter(https://twitter.com/farukci20)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
