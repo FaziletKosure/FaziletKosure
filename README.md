@@ -31,4 +31,4 @@ I prefer React & React Native for web/mobile front-end, Node.js & Django technol
 - [A Short Future-Reference for Debugging, Security Issues, and API Usage (Yelp API) with React Native](https://faziletkosure1.medium.com/a-short-future-reference-for-debugging-security-issues-and-api-usage-yelp-api-with-react-native-b21e4dbcc15a)
 
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=FaziletKosure&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=FaziletKosure&show_icons=true&theme=tokyonight" align="center">
